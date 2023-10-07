@@ -18,20 +18,20 @@ Project consists of fully functional retro video game Pac-man that can be played
 
 <p align="center">Start of game:</p>
 <p align="center">
-  <img src="./PacManPhotos/gamestart.png" alt="Alt Text" width="500" height="600">
+  <img src="./PacManPhotos/gamestart.png" alt="Alt Text" width="200" height="200">
 </p>
 
 <p align="center">Player and Ghost Movement:</p>
 <p align="center">
-  <img src="./PacManPhotos/movement.png" alt="Alt Text" width="500" height="1200">
+  <img src="./PacManPhotos/movement.png" alt="Alt Text" width="200" height="400">
 </p>
 
 <p align="center">Game Loss:</p>
 <p align="center">
-  <img src="./PacManPhotos/gameloss.png" alt="Alt Text" width="500" height="800">
+  <img src="./PacManPhotos/gameloss.png" alt="Alt Text" width="200" height="300">
 </p>
 
 <p align="center">Game Win:</p>
 <p align="center">
-  <img src="./PacManPhotos/gamewin.png" alt="Alt Text" width="500" height="600">
+  <img src="./PacManPhotos/gamewin.png" alt="Alt Text" width="200" height="250">
 </p>
