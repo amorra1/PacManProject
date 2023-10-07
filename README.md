@@ -1,8 +1,9 @@
 <h1>Pac-Man Remake</h1>
 
 <h2>Problem Description</h2>
-Project consists of fully functional retro video game Pac-man that can be played within your IDE's terminal. The assignment was given as a final summative to asses knowledge and programming ability within the language C. The program makes use of many functions to read the map from a file, receive user input to move Pac-man, and randomly move 2 ghosts around the map.
+Project consists of fully functional retro video game Pac-man that can be played within your IDE's terminal. The assignment was given as a final summative to asses knowledge and programming ability within the language C. The program makes use of many functions to read the map from a file, receive user input to move Pac-man, and randomly move 2 ghosts around the map. The Pac-man character moves based on user input of the keys WASD. The ghosts move randomly around the map until the Pac-Man character is in sight, where they then move towards Pac-Man until he is out of sight again.
 <br />
+
 
 
 <h2>Languages and Utilities Used</h2>
