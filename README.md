@@ -16,7 +16,9 @@ Project consists of fully functional retro video game Pac-man that can be played
 
 <h2>Program sample output photos:</h2>
 
+![Start of Game](./PacManPhotos/gamestart.png)
 <p align="center">
-Intial Game start:<br/>
-![gamestart](PacManProject/PacManPhotos/gamestart.png)
-<br />
+  <img src="./PacManPhotos/gamestart.png" alt="Alt Text" width="200" height="150">
+</p>
+
+
