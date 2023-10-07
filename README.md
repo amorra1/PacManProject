@@ -18,5 +18,5 @@ Project consists of fully functional retro video game Pac-man that can be played
 
 <p align="center">
 Inital game start: <br/>
-![gamestart](PacManPhotos/gamestart.png)
+![gamestart](https://github.com/amorra1/PacManProject/blob/dbf799b34cc816cbce7069aa17fc7d48e84904c0/PacManPhotos/gamestart.png)
 <br />
