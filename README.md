@@ -14,9 +14,8 @@ Project consists of fully functional retro video game Pac-man that can be played
 - <b>Windows 11</b>
 - <b>C Lion</b>
 
-<h2>Program sample output:</h2>
+<h2>Program sample output photos:</h2>
 
 <p align="center">
-Inital game start: <br/>
-![gamestart](https://github.com/amorra1/PacManProject/blob/dbf799b34cc816cbce7069aa17fc7d48e84904c0/PacManPhotos/gamestart.png)
+Inital game start(https://github.com/amorra1/PacManProject) <br/>
 <br />
