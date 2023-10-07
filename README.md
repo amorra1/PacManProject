@@ -18,5 +18,5 @@ Project consists of fully functional retro video game Pac-man that can be played
 
 <p align="center">
 Inital game start: <br/>
-<img src="((https://imgur.com/a/MjugvbC))" height="80%" width="80%" alt="Pacman"/>
+<img src="(https://imgur.com/a/MjugvbC)" height="80%" width="80%" alt="Pacman"/>
 <br />
